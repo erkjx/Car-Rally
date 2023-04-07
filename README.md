@@ -51,7 +51,7 @@ TODO:
 | PATCH  | /api/users/{username}/take/admin | Take admin role from user (only for admins) | |
 | PATCH  | /api/users/change/password | Update user password | [JSON](#userpasswordchange) |
 | PATCH  | /api/users/change/email | Update user email | [JSON](#useremailchange) |
-| DELETE | /api/users/ | Delete user (For logged in user  | |
+| DELETE | /api/users/ | Delete user (For logged in user)  | |
 | DELETE | /api/users/{username} | Delete user (For admin) | |
 
 ### Cars
